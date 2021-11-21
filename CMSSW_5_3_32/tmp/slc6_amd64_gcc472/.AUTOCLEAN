@@ -1,0 +1,6 @@
+
+/bin/rm -f lib/slc6_amd64_gcc472/pluginDemoTauAnalyzer.so lib/slc6_amd64_gcc472/DemoTauAnalyzer.edmplugin
+/bin/rm -f src/Demo/TauAnalyzer/python/__init__.py src/Demo/TauAnalyzer/python/__init__.pyc
+/bin/rm -rf tmp/slc6_amd64_gcc472/edmplugins/poison/Demo/TauAnalyzer
+/bin/touch tmp/common/cache/packs/changed
+edmPluginRefresh lib/slc6_amd64_gcc472

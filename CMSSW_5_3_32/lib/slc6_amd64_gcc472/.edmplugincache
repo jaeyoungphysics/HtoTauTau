@@ -1,0 +1,6 @@
+pluginDemoDemoAnalyzer.so DemoAnalyzer CMS%EDM%Framework%Module
+pluginDemoDemoAnalyzer.so DemoAnalyzer CMS%EDM%Framework%ParameterSet%Description
+pluginDemoDemoAnalyzer.so EGammaCutBasedEleIdAnalyzer CMS%EDM%Framework%Module
+pluginDemoDemoAnalyzer.so EGammaCutBasedEleIdAnalyzer CMS%EDM%Framework%ParameterSet%Description
+pluginDemoDemoAnalyzer.so TauAnalyzer CMS%EDM%Framework%Module
+pluginDemoDemoAnalyzer.so TauAnalyzer CMS%EDM%Framework%ParameterSet%Description

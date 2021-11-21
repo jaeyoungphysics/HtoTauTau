@@ -1,0 +1,47 @@
+26-Sep-2021 03:23:10 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/00175829-B4F5-E311-B7C6-002481E0D6A6.root
+26-Sep-2021 03:23:12 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/00175829-B4F5-E311-B7C6-002481E0D6A6.root
+Begin processing the 1st record. Run 1, Event 198601, LumiSection 1987 at 26-Sep-2021 03:23:14.038 KST
+Begin processing the 1001st record. Run 1, Event 19001, LumiSection 4191 at 26-Sep-2021 03:23:15.972 KST
+Begin processing the 2001st record. Run 1, Event 153401, LumiSection 3535 at 26-Sep-2021 03:23:17.770 KST
+Begin processing the 3001st record. Run 1, Event 158601, LumiSection 3587 at 26-Sep-2021 03:23:19.632 KST
+Begin processing the 4001st record. Run 1, Event 168201, LumiSection 3683 at 26-Sep-2021 03:23:21.499 KST
+Begin processing the 5001st record. Run 1, Event 91801, LumiSection 4919 at 26-Sep-2021 03:23:23.376 KST
+Begin processing the 6001st record. Run 1, Event 91201, LumiSection 4913 at 26-Sep-2021 03:23:25.283 KST
+Begin processing the 7001st record. Run 1, Event 94401, LumiSection 4945 at 26-Sep-2021 03:23:27.188 KST
+26-Sep-2021 03:23:28 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/00175829-B4F5-E311-B7C6-002481E0D6A6.root
+26-Sep-2021 03:23:28 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/54058370-E6F5-E311-839B-0025907DCA9C.root
+26-Sep-2021 03:23:28 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/54058370-E6F5-E311-839B-0025907DCA9C.root
+Begin processing the 8001st record. Run 1, Event 64201, LumiSection 643 at 26-Sep-2021 03:23:29.948 KST
+Begin processing the 9001st record. Run 1, Event 79201, LumiSection 793 at 26-Sep-2021 03:23:31.752 KST
+Begin processing the 10001st record. Run 1, Event 116801, LumiSection 1169 at 26-Sep-2021 03:23:33.619 KST
+Begin processing the 11001st record. Run 1, Event 184001, LumiSection 3841 at 26-Sep-2021 03:23:35.469 KST
+Begin processing the 12001st record. Run 1, Event 7801, LumiSection 4079 at 26-Sep-2021 03:23:37.306 KST
+Begin processing the 13001st record. Run 1, Event 115201, LumiSection 3153 at 26-Sep-2021 03:23:39.215 KST
+Begin processing the 14001st record. Run 1, Event 120001, LumiSection 3201 at 26-Sep-2021 03:23:41.104 KST
+Begin processing the 15001st record. Run 1, Event 121201, LumiSection 3213 at 26-Sep-2021 03:23:43.034 KST
+26-Sep-2021 03:23:43 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/54058370-E6F5-E311-839B-0025907DCA9C.root
+26-Sep-2021 03:23:43 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A68DCF03-D7F5-E311-8617-002590A2CD44.root
+26-Sep-2021 03:23:43 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A68DCF03-D7F5-E311-8617-002590A2CD44.root
+Begin processing the 16001st record. Run 1, Event 1801, LumiSection 19 at 26-Sep-2021 03:23:45.781 KST
+Begin processing the 17001st record. Run 1, Event 37601, LumiSection 377 at 26-Sep-2021 03:23:47.607 KST
+Begin processing the 18001st record. Run 1, Event 95401, LumiSection 2955 at 26-Sep-2021 03:23:49.486 KST
+Begin processing the 19001st record. Run 1, Event 47401, LumiSection 475 at 26-Sep-2021 03:23:51.332 KST
+26-Sep-2021 03:23:53 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A68DCF03-D7F5-E311-8617-002590A2CD44.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                             3        3
+    2 fileAction           -s file_open                              6        6
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostProcessEvent PostProcessEvent PostEndRun
+    2 fileAction           pre-events       pre-events       PostProcessEvent
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                  9                   9

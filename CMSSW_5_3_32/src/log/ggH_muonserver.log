@@ -1,0 +1,663 @@
+09-Sep-2021 04:15:22 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/00175829-B4F5-E311-B7C6-002481E0D6A6.root
+09-Sep-2021 04:15:24 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/00175829-B4F5-E311-B7C6-002481E0D6A6.root
+Begin processing the 1st record. Run 1, Event 198601, LumiSection 1987 at 09-Sep-2021 04:15:25.721 KST
+Begin processing the 1001st record. Run 1, Event 19001, LumiSection 4191 at 09-Sep-2021 04:15:26.983 KST
+Begin processing the 2001st record. Run 1, Event 153401, LumiSection 3535 at 09-Sep-2021 04:15:28.186 KST
+Begin processing the 3001st record. Run 1, Event 158601, LumiSection 3587 at 09-Sep-2021 04:15:29.436 KST
+Begin processing the 4001st record. Run 1, Event 168201, LumiSection 3683 at 09-Sep-2021 04:15:30.690 KST
+Begin processing the 5001st record. Run 1, Event 91801, LumiSection 4919 at 09-Sep-2021 04:15:31.954 KST
+Begin processing the 6001st record. Run 1, Event 91201, LumiSection 4913 at 09-Sep-2021 04:15:33.231 KST
+Begin processing the 7001st record. Run 1, Event 94401, LumiSection 4945 at 09-Sep-2021 04:15:34.511 KST
+09-Sep-2021 04:15:35 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/00175829-B4F5-E311-B7C6-002481E0D6A6.root
+09-Sep-2021 04:15:35 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/54058370-E6F5-E311-839B-0025907DCA9C.root
+09-Sep-2021 04:15:35 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/54058370-E6F5-E311-839B-0025907DCA9C.root
+Begin processing the 8001st record. Run 1, Event 64201, LumiSection 643 at 09-Sep-2021 04:15:36.593 KST
+Begin processing the 9001st record. Run 1, Event 79201, LumiSection 793 at 09-Sep-2021 04:15:37.778 KST
+Begin processing the 10001st record. Run 1, Event 116801, LumiSection 1169 at 09-Sep-2021 04:15:39.001 KST
+Begin processing the 11001st record. Run 1, Event 184001, LumiSection 3841 at 09-Sep-2021 04:15:40.211 KST
+Begin processing the 12001st record. Run 1, Event 7801, LumiSection 4079 at 09-Sep-2021 04:15:41.409 KST
+Begin processing the 13001st record. Run 1, Event 115201, LumiSection 3153 at 09-Sep-2021 04:15:42.662 KST
+Begin processing the 14001st record. Run 1, Event 120001, LumiSection 3201 at 09-Sep-2021 04:15:43.906 KST
+Begin processing the 15001st record. Run 1, Event 121201, LumiSection 3213 at 09-Sep-2021 04:15:45.159 KST
+09-Sep-2021 04:15:45 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/54058370-E6F5-E311-839B-0025907DCA9C.root
+09-Sep-2021 04:15:45 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A68DCF03-D7F5-E311-8617-002590A2CD44.root
+09-Sep-2021 04:15:45 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A68DCF03-D7F5-E311-8617-002590A2CD44.root
+Begin processing the 16001st record. Run 1, Event 1801, LumiSection 19 at 09-Sep-2021 04:15:47.251 KST
+Begin processing the 17001st record. Run 1, Event 37601, LumiSection 377 at 09-Sep-2021 04:15:48.443 KST
+Begin processing the 18001st record. Run 1, Event 95401, LumiSection 2955 at 09-Sep-2021 04:15:49.678 KST
+Begin processing the 19001st record. Run 1, Event 47401, LumiSection 475 at 09-Sep-2021 04:15:50.905 KST
+Begin processing the 20001st record. Run 1, Event 74401, LumiSection 2745 at 09-Sep-2021 04:15:52.153 KST
+Begin processing the 21001st record. Run 1, Event 136001, LumiSection 1361 at 09-Sep-2021 04:15:53.432 KST
+Begin processing the 22001st record. Run 1, Event 99801, LumiSection 2999 at 09-Sep-2021 04:15:54.695 KST
+Begin processing the 23001st record. Run 1, Event 132601, LumiSection 3327 at 09-Sep-2021 04:15:55.952 KST
+Begin processing the 24001st record. Run 1, Event 152401, LumiSection 3525 at 09-Sep-2021 04:15:57.296 KST
+09-Sep-2021 04:15:58 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A68DCF03-D7F5-E311-8617-002590A2CD44.root
+09-Sep-2021 04:15:58 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/0207FA29-D4F5-E311-A67B-0025901D4B00.root
+09-Sep-2021 04:15:58 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/0207FA29-D4F5-E311-A67B-0025901D4B00.root
+Begin processing the 25001st record. Run 1, Event 12601, LumiSection 127 at 09-Sep-2021 04:15:59.388 KST
+Begin processing the 26001st record. Run 1, Event 104201, LumiSection 3043 at 09-Sep-2021 04:16:00.618 KST
+Begin processing the 27001st record. Run 1, Event 151801, LumiSection 1519 at 09-Sep-2021 04:16:01.818 KST
+Begin processing the 28001st record. Run 1, Event 2201, LumiSection 2023 at 09-Sep-2021 04:16:02.988 KST
+Begin processing the 29001st record. Run 1, Event 118801, LumiSection 1189 at 09-Sep-2021 04:16:04.147 KST
+Begin processing the 30001st record. Run 1, Event 178601, LumiSection 3787 at 09-Sep-2021 04:16:05.342 KST
+Begin processing the 31001st record. Run 1, Event 45401, LumiSection 4455 at 09-Sep-2021 04:16:06.515 KST
+Begin processing the 32001st record. Run 1, Event 69001, LumiSection 4691 at 09-Sep-2021 04:16:07.719 KST
+09-Sep-2021 04:16:08 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/0207FA29-D4F5-E311-A67B-0025901D4B00.root
+09-Sep-2021 04:16:08 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/5687508D-CDF5-E311-9F9A-002590AC4C3E.root
+09-Sep-2021 04:16:08 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/5687508D-CDF5-E311-9F9A-002590AC4C3E.root
+Begin processing the 33001st record. Run 1, Event 34801, LumiSection 349 at 09-Sep-2021 04:16:09.698 KST
+Begin processing the 34001st record. Run 1, Event 114201, LumiSection 3143 at 09-Sep-2021 04:16:10.871 KST
+Begin processing the 35001st record. Run 1, Event 77401, LumiSection 775 at 09-Sep-2021 04:16:12.073 KST
+Begin processing the 36001st record. Run 1, Event 84601, LumiSection 847 at 09-Sep-2021 04:16:13.244 KST
+Begin processing the 37001st record. Run 1, Event 197401, LumiSection 3975 at 09-Sep-2021 04:16:14.411 KST
+Begin processing the 38001st record. Run 1, Event 110601, LumiSection 3107 at 09-Sep-2021 04:16:15.648 KST
+Begin processing the 39001st record. Run 1, Event 155801, LumiSection 3559 at 09-Sep-2021 04:16:16.789 KST
+Begin processing the 40001st record. Run 1, Event 153201, LumiSection 3533 at 09-Sep-2021 04:16:17.972 KST
+09-Sep-2021 04:16:19 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/5687508D-CDF5-E311-9F9A-002590AC4C3E.root
+09-Sep-2021 04:16:19 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A89A8E76-E6F5-E311-8AD6-0025907DCA9C.root
+09-Sep-2021 04:16:19 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A89A8E76-E6F5-E311-8AD6-0025907DCA9C.root
+Begin processing the 41001st record. Run 1, Event 39401, LumiSection 395 at 09-Sep-2021 04:16:19.940 KST
+Begin processing the 42001st record. Run 1, Event 65401, LumiSection 655 at 09-Sep-2021 04:16:21.195 KST
+Begin processing the 43001st record. Run 1, Event 68601, LumiSection 687 at 09-Sep-2021 04:16:22.392 KST
+Begin processing the 44001st record. Run 1, Event 137601, LumiSection 1377 at 09-Sep-2021 04:16:23.648 KST
+Begin processing the 45001st record. Run 1, Event 90801, LumiSection 909 at 09-Sep-2021 04:16:24.885 KST
+Begin processing the 46001st record. Run 1, Event 16601, LumiSection 4167 at 09-Sep-2021 04:16:26.116 KST
+Begin processing the 47001st record. Run 1, Event 32201, LumiSection 4323 at 09-Sep-2021 04:16:27.424 KST
+Begin processing the 48001st record. Run 1, Event 75201, LumiSection 4753 at 09-Sep-2021 04:16:28.703 KST
+09-Sep-2021 04:16:30 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A89A8E76-E6F5-E311-8AD6-0025907DCA9C.root
+09-Sep-2021 04:16:30 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/08553187-E6F5-E311-A881-0025901D493C.root
+09-Sep-2021 04:16:30 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/08553187-E6F5-E311-A881-0025901D493C.root
+Begin processing the 49001st record. Run 1, Event 3401, LumiSection 35 at 09-Sep-2021 04:16:30.887 KST
+Begin processing the 50001st record. Run 1, Event 8802, LumiSection 89 at 09-Sep-2021 04:16:32.076 KST
+Begin processing the 51001st record. Run 1, Event 44602, LumiSection 447 at 09-Sep-2021 04:16:33.294 KST
+Begin processing the 52001st record. Run 1, Event 198002, LumiSection 3981 at 09-Sep-2021 04:16:34.536 KST
+Begin processing the 53001st record. Run 1, Event 60202, LumiSection 603 at 09-Sep-2021 04:16:35.764 KST
+Begin processing the 54001st record. Run 1, Event 61602, LumiSection 617 at 09-Sep-2021 04:16:37.023 KST
+Begin processing the 55001st record. Run 1, Event 67603, LumiSection 677 at 09-Sep-2021 04:16:38.292 KST
+Begin processing the 56001st record. Run 1, Event 128803, LumiSection 1289 at 09-Sep-2021 04:16:39.563 KST
+Begin processing the 57001st record. Run 1, Event 12403, LumiSection 2125 at 09-Sep-2021 04:16:40.863 KST
+Begin processing the 58001st record. Run 1, Event 180003, LumiSection 3801 at 09-Sep-2021 04:16:42.182 KST
+Begin processing the 59001st record. Run 1, Event 100003, LumiSection 3001 at 09-Sep-2021 04:16:43.525 KST
+Begin processing the 60001st record. Run 1, Event 110203, LumiSection 3103 at 09-Sep-2021 04:16:44.893 KST
+09-Sep-2021 04:16:45 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/08553187-E6F5-E311-A881-0025901D493C.root
+09-Sep-2021 04:16:45 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/5C8C56A8-C9F5-E311-92FC-002590AC5074.root
+09-Sep-2021 04:16:45 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/5C8C56A8-C9F5-E311-92FC-002590AC5074.root
+Begin processing the 61001st record. Run 1, Event 19403, LumiSection 195 at 09-Sep-2021 04:16:46.911 KST
+Begin processing the 62001st record. Run 1, Event 160403, LumiSection 3605 at 09-Sep-2021 04:16:48.155 KST
+Begin processing the 63001st record. Run 1, Event 146403, LumiSection 3465 at 09-Sep-2021 04:16:49.377 KST
+Begin processing the 64001st record. Run 1, Event 5403, LumiSection 4055 at 09-Sep-2021 04:16:50.615 KST
+Begin processing the 65001st record. Run 1, Event 32603, LumiSection 4327 at 09-Sep-2021 04:16:51.896 KST
+Begin processing the 66001st record. Run 1, Event 37603, LumiSection 4377 at 09-Sep-2021 04:16:53.176 KST
+Begin processing the 67001st record. Run 1, Event 55603, LumiSection 4557 at 09-Sep-2021 04:16:54.484 KST
+09-Sep-2021 04:16:54 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/5C8C56A8-C9F5-E311-92FC-002590AC5074.root
+09-Sep-2021 04:16:54 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/AA869F8E-D4F5-E311-A574-002590DB924E.root
+09-Sep-2021 04:16:54 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/AA869F8E-D4F5-E311-A574-002590DB924E.root
+Begin processing the 68001st record. Run 1, Event 67203, LumiSection 673 at 09-Sep-2021 04:16:56.605 KST
+Begin processing the 69001st record. Run 1, Event 93403, LumiSection 935 at 09-Sep-2021 04:16:57.824 KST
+Begin processing the 70001st record. Run 1, Event 179803, LumiSection 3799 at 09-Sep-2021 04:16:59.014 KST
+Begin processing the 71001st record. Run 1, Event 117403, LumiSection 1175 at 09-Sep-2021 04:17:00.245 KST
+Begin processing the 72001st record. Run 1, Event 58003, LumiSection 581 at 09-Sep-2021 04:17:01.501 KST
+Begin processing the 73001st record. Run 1, Event 72203, LumiSection 723 at 09-Sep-2021 04:17:02.716 KST
+Begin processing the 74001st record. Run 1, Event 73403, LumiSection 735 at 09-Sep-2021 04:17:03.998 KST
+Begin processing the 75001st record. Run 1, Event 75203, LumiSection 753 at 09-Sep-2021 04:17:05.265 KST
+Begin processing the 76001st record. Run 1, Event 140403, LumiSection 3405 at 09-Sep-2021 04:17:06.571 KST
+Begin processing the 77001st record. Run 1, Event 84603, LumiSection 4847 at 09-Sep-2021 04:17:07.861 KST
+Begin processing the 78001st record. Run 1, Event 87003, LumiSection 4871 at 09-Sep-2021 04:17:09.194 KST
+09-Sep-2021 04:17:09 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/AA869F8E-D4F5-E311-A574-002590DB924E.root
+09-Sep-2021 04:17:09 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/0A38B332-C5F5-E311-B805-003048F30422.root
+09-Sep-2021 04:17:09 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/0A38B332-C5F5-E311-B805-003048F30422.root
+Begin processing the 79001st record. Run 1, Event 99003, LumiSection 991 at 09-Sep-2021 04:17:11.250 KST
+Begin processing the 80001st record. Run 1, Event 90003, LumiSection 901 at 09-Sep-2021 04:17:12.451 KST
+Begin processing the 81001st record. Run 1, Event 112203, LumiSection 1123 at 09-Sep-2021 04:17:13.645 KST
+Begin processing the 82001st record. Run 1, Event 105003, LumiSection 3051 at 09-Sep-2021 04:17:14.854 KST
+Begin processing the 83001st record. Run 1, Event 137603, LumiSection 3377 at 09-Sep-2021 04:17:16.110 KST
+Begin processing the 84001st record. Run 1, Event 46203, LumiSection 4463 at 09-Sep-2021 04:17:17.344 KST
+Begin processing the 85001st record. Run 1, Event 66603, LumiSection 4667 at 09-Sep-2021 04:17:18.615 KST
+09-Sep-2021 04:17:19 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/0A38B332-C5F5-E311-B805-003048F30422.root
+09-Sep-2021 04:17:19 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6494727A-D5F5-E311-9462-002590DB9278.root
+09-Sep-2021 04:17:19 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6494727A-D5F5-E311-9462-002590DB9278.root
+Begin processing the 86001st record. Run 1, Event 171404, LumiSection 3715 at 09-Sep-2021 04:17:20.733 KST
+Begin processing the 87001st record. Run 1, Event 180205, LumiSection 3803 at 09-Sep-2021 04:17:21.931 KST
+Begin processing the 88001st record. Run 1, Event 185005, LumiSection 3851 at 09-Sep-2021 04:17:23.177 KST
+Begin processing the 89001st record. Run 1, Event 21005, LumiSection 4211 at 09-Sep-2021 04:17:24.455 KST
+Begin processing the 90001st record. Run 1, Event 40005, LumiSection 4401 at 09-Sep-2021 04:17:25.712 KST
+Begin processing the 91001st record. Run 1, Event 51205, LumiSection 4513 at 09-Sep-2021 04:17:26.996 KST
+Begin processing the 92001st record. Run 1, Event 70805, LumiSection 4709 at 09-Sep-2021 04:17:28.300 KST
+Begin processing the 93001st record. Run 1, Event 71805, LumiSection 4719 at 09-Sep-2021 04:17:29.682 KST
+Begin processing the 94001st record. Run 1, Event 82405, LumiSection 4825 at 09-Sep-2021 04:17:31.034 KST
+09-Sep-2021 04:17:32 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6494727A-D5F5-E311-9462-002590DB9278.root
+09-Sep-2021 04:17:32 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/AEAE8258-B5F5-E311-BE7F-002590AC4B5C.root
+09-Sep-2021 04:17:32 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/AEAE8258-B5F5-E311-BE7F-002590AC4B5C.root
+Begin processing the 95001st record. Run 1, Event 137205, LumiSection 3373 at 09-Sep-2021 04:17:33.138 KST
+Begin processing the 96001st record. Run 1, Event 173605, LumiSection 1737 at 09-Sep-2021 04:17:34.312 KST
+Begin processing the 97001st record. Run 1, Event 134005, LumiSection 3341 at 09-Sep-2021 04:17:35.531 KST
+Begin processing the 98001st record. Run 1, Event 92205, LumiSection 4923 at 09-Sep-2021 04:17:36.734 KST
+Begin processing the 99001st record. Run 1, Event 177205, LumiSection 3773 at 09-Sep-2021 04:17:37.984 KST
+Begin processing the 100001st record. Run 1, Event 25205, LumiSection 4253 at 09-Sep-2021 04:17:39.263 KST
+Begin processing the 101001st record. Run 1, Event 87405, LumiSection 4875 at 09-Sep-2021 04:17:40.533 KST
+Begin processing the 102001st record. Run 1, Event 98405, LumiSection 4985 at 09-Sep-2021 04:17:41.834 KST
+09-Sep-2021 04:17:42 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/AEAE8258-B5F5-E311-BE7F-002590AC4B5C.root
+09-Sep-2021 04:17:42 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/12871A76-E6F5-E311-9EA2-0025907DCA9C.root
+09-Sep-2021 04:17:42 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/12871A76-E6F5-E311-9EA2-0025907DCA9C.root
+Begin processing the 103001st record. Run 1, Event 146605, LumiSection 1467 at 09-Sep-2021 04:17:43.923 KST
+Begin processing the 104001st record. Run 1, Event 62805, LumiSection 2629 at 09-Sep-2021 04:17:45.170 KST
+Begin processing the 105001st record. Run 1, Event 64605, LumiSection 2647 at 09-Sep-2021 04:17:46.391 KST
+Begin processing the 106001st record. Run 1, Event 67605, LumiSection 2677 at 09-Sep-2021 04:17:47.593 KST
+Begin processing the 107001st record. Run 1, Event 183405, LumiSection 3835 at 09-Sep-2021 04:17:48.866 KST
+Begin processing the 108001st record. Run 1, Event 85605, LumiSection 4857 at 09-Sep-2021 04:17:50.093 KST
+Begin processing the 109001st record. Run 1, Event 88205, LumiSection 4883 at 09-Sep-2021 04:17:51.327 KST
+Begin processing the 110001st record. Run 1, Event 89605, LumiSection 4897 at 09-Sep-2021 04:17:52.614 KST
+09-Sep-2021 04:17:53 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/12871A76-E6F5-E311-9EA2-0025907DCA9C.root
+09-Sep-2021 04:17:53 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6689186D-E6F5-E311-A443-00266CFFA6A8.root
+09-Sep-2021 04:17:53 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6689186D-E6F5-E311-A443-00266CFFA6A8.root
+Begin processing the 111001st record. Run 1, Event 192405, LumiSection 1925 at 09-Sep-2021 04:17:54.637 KST
+Begin processing the 112001st record. Run 1, Event 70405, LumiSection 705 at 09-Sep-2021 04:17:55.860 KST
+Begin processing the 113001st record. Run 1, Event 147805, LumiSection 3479 at 09-Sep-2021 04:17:57.063 KST
+Begin processing the 114001st record. Run 1, Event 126605, LumiSection 1267 at 09-Sep-2021 04:17:58.291 KST
+Begin processing the 115001st record. Run 1, Event 130405, LumiSection 1305 at 09-Sep-2021 04:17:59.507 KST
+Begin processing the 116001st record. Run 1, Event 23605, LumiSection 2237 at 09-Sep-2021 04:18:00.745 KST
+Begin processing the 117001st record. Run 1, Event 85405, LumiSection 2855 at 09-Sep-2021 04:18:01.962 KST
+Begin processing the 118001st record. Run 1, Event 107205, LumiSection 3073 at 09-Sep-2021 04:18:03.287 KST
+09-Sep-2021 04:18:03 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6689186D-E6F5-E311-A443-00266CFFA6A8.root
+09-Sep-2021 04:18:03 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/C2AF5A2C-EFF5-E311-BA8A-002590A2CD68.root
+09-Sep-2021 04:18:03 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/C2AF5A2C-EFF5-E311-BA8A-002590A2CD68.root
+Begin processing the 119001st record. Run 1, Event 5005, LumiSection 51 at 09-Sep-2021 04:18:05.375 KST
+Begin processing the 120001st record. Run 1, Event 82806, LumiSection 829 at 09-Sep-2021 04:18:06.577 KST
+Begin processing the 121001st record. Run 1, Event 114006, LumiSection 1141 at 09-Sep-2021 04:18:07.808 KST
+Begin processing the 122001st record. Run 1, Event 2406, LumiSection 2025 at 09-Sep-2021 04:18:09.004 KST
+Begin processing the 123001st record. Run 1, Event 13406, LumiSection 2135 at 09-Sep-2021 04:18:10.225 KST
+Begin processing the 124001st record. Run 1, Event 183606, LumiSection 3837 at 09-Sep-2021 04:18:11.466 KST
+Begin processing the 125001st record. Run 1, Event 72806, LumiSection 4729 at 09-Sep-2021 04:18:12.752 KST
+Begin processing the 126001st record. Run 1, Event 73806, LumiSection 4739 at 09-Sep-2021 04:18:14.000 KST
+09-Sep-2021 04:18:14 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/C2AF5A2C-EFF5-E311-BA8A-002590A2CD68.root
+09-Sep-2021 04:18:14 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/2A1FB560-CAF5-E311-984A-00266CF2718C.root
+09-Sep-2021 04:18:14 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/2A1FB560-CAF5-E311-984A-00266CF2718C.root
+Begin processing the 127001st record. Run 1, Event 137006, LumiSection 3371 at 09-Sep-2021 04:18:16.106 KST
+Begin processing the 128001st record. Run 1, Event 112206, LumiSection 3123 at 09-Sep-2021 04:18:17.294 KST
+Begin processing the 129001st record. Run 1, Event 122806, LumiSection 1229 at 09-Sep-2021 04:18:18.525 KST
+Begin processing the 130001st record. Run 1, Event 38006, LumiSection 2381 at 09-Sep-2021 04:18:19.720 KST
+Begin processing the 131001st record. Run 1, Event 90206, LumiSection 2903 at 09-Sep-2021 04:18:21.020 KST
+Begin processing the 132001st record. Run 1, Event 6006, LumiSection 4061 at 09-Sep-2021 04:18:22.286 KST
+Begin processing the 133001st record. Run 1, Event 67806, LumiSection 4679 at 09-Sep-2021 04:18:23.577 KST
+09-Sep-2021 04:18:24 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/2A1FB560-CAF5-E311-984A-00266CF2718C.root
+09-Sep-2021 04:18:24 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/684AE0BE-D7F5-E311-A7F1-0025904B12B2.root
+09-Sep-2021 04:18:24 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/684AE0BE-D7F5-E311-A7F1-0025904B12B2.root
+Begin processing the 134001st record. Run 1, Event 32206, LumiSection 323 at 09-Sep-2021 04:18:25.654 KST
+Begin processing the 135001st record. Run 1, Event 34406, LumiSection 345 at 09-Sep-2021 04:18:26.854 KST
+Begin processing the 136001st record. Run 1, Event 111206, LumiSection 1113 at 09-Sep-2021 04:18:28.062 KST
+Begin processing the 137001st record. Run 1, Event 69807, LumiSection 2699 at 09-Sep-2021 04:18:29.331 KST
+Begin processing the 138001st record. Run 1, Event 16007, LumiSection 4161 at 09-Sep-2021 04:18:30.564 KST
+Begin processing the 139001st record. Run 1, Event 88407, LumiSection 2885 at 09-Sep-2021 04:18:31.811 KST
+Begin processing the 140001st record. Run 1, Event 27207, LumiSection 4273 at 09-Sep-2021 04:18:33.064 KST
+Begin processing the 141001st record. Run 1, Event 57008, LumiSection 4571 at 09-Sep-2021 04:18:34.348 KST
+Begin processing the 142001st record. Run 1, Event 57208, LumiSection 4573 at 09-Sep-2021 04:18:35.622 KST
+Begin processing the 143001st record. Run 1, Event 60208, LumiSection 4603 at 09-Sep-2021 04:18:36.937 KST
+09-Sep-2021 04:18:37 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/684AE0BE-D7F5-E311-A7F1-0025904B12B2.root
+09-Sep-2021 04:18:37 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/C4B34A7B-E6F5-E311-845C-0025907DCA9C.root
+09-Sep-2021 04:18:37 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/C4B34A7B-E6F5-E311-845C-0025907DCA9C.root
+Begin processing the 144001st record. Run 1, Event 12008, LumiSection 121 at 09-Sep-2021 04:18:38.993 KST
+Begin processing the 145001st record. Run 1, Event 58408, LumiSection 585 at 09-Sep-2021 04:18:40.187 KST
+Begin processing the 146001st record. Run 1, Event 116208, LumiSection 1163 at 09-Sep-2021 04:18:41.429 KST
+Begin processing the 147001st record. Run 1, Event 179608, LumiSection 1797 at 09-Sep-2021 04:18:42.687 KST
+Begin processing the 148001st record. Run 1, Event 608, LumiSection 2007 at 09-Sep-2021 04:18:43.961 KST
+Begin processing the 149001st record. Run 1, Event 2008, LumiSection 2021 at 09-Sep-2021 04:18:45.237 KST
+Begin processing the 150001st record. Run 1, Event 83608, LumiSection 4837 at 09-Sep-2021 04:18:46.513 KST
+Begin processing the 151001st record. Run 1, Event 85408, LumiSection 4855 at 09-Sep-2021 04:18:47.843 KST
+09-Sep-2021 04:18:48 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/C4B34A7B-E6F5-E311-845C-0025907DCA9C.root
+09-Sep-2021 04:18:48 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/2A3BD6B3-CBF5-E311-8F80-00266CFFA6F0.root
+09-Sep-2021 04:18:48 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/2A3BD6B3-CBF5-E311-8F80-00266CFFA6F0.root
+Begin processing the 152001st record. Run 1, Event 106008, LumiSection 3061 at 09-Sep-2021 04:18:49.915 KST
+Begin processing the 153001st record. Run 1, Event 71208, LumiSection 713 at 09-Sep-2021 04:18:51.126 KST
+Begin processing the 154001st record. Run 1, Event 123208, LumiSection 1233 at 09-Sep-2021 04:18:52.334 KST
+Begin processing the 155001st record. Run 1, Event 82008, LumiSection 821 at 09-Sep-2021 04:18:53.569 KST
+Begin processing the 156001st record. Run 1, Event 82408, LumiSection 825 at 09-Sep-2021 04:18:54.793 KST
+Begin processing the 157001st record. Run 1, Event 98208, LumiSection 983 at 09-Sep-2021 04:18:56.057 KST
+Begin processing the 158001st record. Run 1, Event 99608, LumiSection 2997 at 09-Sep-2021 04:18:57.297 KST
+Begin processing the 159001st record. Run 1, Event 133808, LumiSection 3339 at 09-Sep-2021 04:18:58.607 KST
+Begin processing the 160001st record. Run 1, Event 159608, LumiSection 3597 at 09-Sep-2021 04:18:59.922 KST
+Begin processing the 161001st record. Run 1, Event 145408, LumiSection 3455 at 09-Sep-2021 04:19:01.240 KST
+09-Sep-2021 04:19:02 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/2A3BD6B3-CBF5-E311-8F80-00266CFFA6F0.root
+09-Sep-2021 04:19:02 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6A48C3EB-D1F5-E311-A71A-003048F0E1EA.root
+09-Sep-2021 04:19:02 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6A48C3EB-D1F5-E311-A71A-003048F0E1EA.root
+Begin processing the 162001st record. Run 1, Event 118008, LumiSection 1181 at 09-Sep-2021 04:19:03.347 KST
+Begin processing the 163001st record. Run 1, Event 48009, LumiSection 4481 at 09-Sep-2021 04:19:04.542 KST
+Begin processing the 164001st record. Run 1, Event 129809, LumiSection 3299 at 09-Sep-2021 04:19:05.785 KST
+Begin processing the 165001st record. Run 1, Event 118209, LumiSection 1183 at 09-Sep-2021 04:19:07.016 KST
+Begin processing the 166001st record. Run 1, Event 134809, LumiSection 1349 at 09-Sep-2021 04:19:08.248 KST
+Begin processing the 167001st record. Run 1, Event 155809, LumiSection 1559 at 09-Sep-2021 04:19:09.501 KST
+Begin processing the 168001st record. Run 1, Event 182609, LumiSection 1827 at 09-Sep-2021 04:19:10.769 KST
+Begin processing the 169001st record. Run 1, Event 193609, LumiSection 3937 at 09-Sep-2021 04:19:12.050 KST
+09-Sep-2021 04:19:12 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6A48C3EB-D1F5-E311-A71A-003048F0E1EA.root
+09-Sep-2021 04:19:12 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/CA50DC23-CDF5-E311-8734-002590AC4C3E.root
+09-Sep-2021 04:19:12 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/CA50DC23-CDF5-E311-8734-002590AC4C3E.root
+Begin processing the 170001st record. Run 1, Event 170809, LumiSection 1709 at 09-Sep-2021 04:19:14.158 KST
+Begin processing the 171001st record. Run 1, Event 65609, LumiSection 2657 at 09-Sep-2021 04:19:15.385 KST
+Begin processing the 172001st record. Run 1, Event 102609, LumiSection 1027 at 09-Sep-2021 04:19:16.594 KST
+Begin processing the 173001st record. Run 1, Event 93009, LumiSection 2931 at 09-Sep-2021 04:19:17.823 KST
+Begin processing the 174001st record. Run 1, Event 77209, LumiSection 4773 at 09-Sep-2021 04:19:19.063 KST
+Begin processing the 175001st record. Run 1, Event 117409, LumiSection 3175 at 09-Sep-2021 04:19:20.313 KST
+Begin processing the 176001st record. Run 1, Event 47010, LumiSection 4471 at 09-Sep-2021 04:19:21.590 KST
+Begin processing the 177001st record. Run 1, Event 48210, LumiSection 4483 at 09-Sep-2021 04:19:22.893 KST
+09-Sep-2021 04:19:23 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/CA50DC23-CDF5-E311-8734-002590AC4C3E.root
+09-Sep-2021 04:19:23 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/386EE48F-E6F5-E311-840C-002481E0EA06.root
+09-Sep-2021 04:19:23 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/386EE48F-E6F5-E311-840C-002481E0EA06.root
+Begin processing the 178001st record. Run 1, Event 128210, LumiSection 1283 at 09-Sep-2021 04:19:25.031 KST
+Begin processing the 179001st record. Run 1, Event 185010, LumiSection 1851 at 09-Sep-2021 04:19:26.209 KST
+Begin processing the 180001st record. Run 1, Event 145010, LumiSection 1451 at 09-Sep-2021 04:19:27.505 KST
+Begin processing the 181001st record. Run 1, Event 148610, LumiSection 1487 at 09-Sep-2021 04:19:28.734 KST
+Begin processing the 182001st record. Run 1, Event 150010, LumiSection 1501 at 09-Sep-2021 04:19:29.972 KST
+Begin processing the 183001st record. Run 1, Event 27410, LumiSection 2275 at 09-Sep-2021 04:19:31.290 KST
+Begin processing the 184001st record. Run 1, Event 79410, LumiSection 2795 at 09-Sep-2021 04:19:32.601 KST
+Begin processing the 185001st record. Run 1, Event 127011, LumiSection 3271 at 09-Sep-2021 04:19:33.872 KST
+Begin processing the 186001st record. Run 1, Event 18611, LumiSection 4187 at 09-Sep-2021 04:19:35.153 KST
+Begin processing the 187001st record. Run 1, Event 23611, LumiSection 4237 at 09-Sep-2021 04:19:36.493 KST
+09-Sep-2021 04:19:36 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/386EE48F-E6F5-E311-840C-002481E0EA06.root
+09-Sep-2021 04:19:36 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6AC7CDED-F0F5-E311-B924-0025904B5FAE.root
+09-Sep-2021 04:19:36 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6AC7CDED-F0F5-E311-B924-0025904B5FAE.root
+Begin processing the 188001st record. Run 1, Event 42411, LumiSection 425 at 09-Sep-2021 04:19:38.540 KST
+Begin processing the 189001st record. Run 1, Event 66011, LumiSection 661 at 09-Sep-2021 04:19:39.774 KST
+Begin processing the 190001st record. Run 1, Event 117811, LumiSection 1179 at 09-Sep-2021 04:19:40.991 KST
+Begin processing the 191001st record. Run 1, Event 32412, LumiSection 2325 at 09-Sep-2021 04:19:42.262 KST
+Begin processing the 192001st record. Run 1, Event 118012, LumiSection 3181 at 09-Sep-2021 04:19:43.538 KST
+Begin processing the 193001st record. Run 1, Event 173612, LumiSection 3737 at 09-Sep-2021 04:19:44.799 KST
+Begin processing the 194001st record. Run 1, Event 75812, LumiSection 4759 at 09-Sep-2021 04:19:46.111 KST
+Begin processing the 195001st record. Run 1, Event 77012, LumiSection 4771 at 09-Sep-2021 04:19:47.418 KST
+09-Sep-2021 04:19:47 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6AC7CDED-F0F5-E311-B924-0025904B5FAE.root
+09-Sep-2021 04:19:47 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/CC0C6BB3-E6F5-E311-A363-00266CF32BC4.root
+09-Sep-2021 04:19:47 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/CC0C6BB3-E6F5-E311-A363-00266CF32BC4.root
+Begin processing the 196001st record. Run 1, Event 109412, LumiSection 3095 at 09-Sep-2021 04:19:49.477 KST
+Begin processing the 197001st record. Run 1, Event 75812, LumiSection 759 at 09-Sep-2021 04:19:50.690 KST
+Begin processing the 198001st record. Run 1, Event 88412, LumiSection 885 at 09-Sep-2021 04:19:51.939 KST
+Begin processing the 199001st record. Run 1, Event 97612, LumiSection 2977 at 09-Sep-2021 04:19:53.190 KST
+Begin processing the 200001st record. Run 1, Event 175812, LumiSection 1759 at 09-Sep-2021 04:19:54.426 KST
+Begin processing the 201001st record. Run 1, Event 185212, LumiSection 1853 at 09-Sep-2021 04:19:55.641 KST
+Begin processing the 202001st record. Run 1, Event 197412, LumiSection 1975 at 09-Sep-2021 04:19:56.899 KST
+Begin processing the 203001st record. Run 1, Event 198412, LumiSection 1985 at 09-Sep-2021 04:19:58.211 KST
+09-Sep-2021 04:19:58 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/CC0C6BB3-E6F5-E311-A363-00266CF32BC4.root
+09-Sep-2021 04:19:58 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/38F53E65-CBF5-E311-AE57-00266CF32E2C.root
+09-Sep-2021 04:19:58 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/38F53E65-CBF5-E311-AE57-00266CF32E2C.root
+Begin processing the 204001st record. Run 1, Event 73612, LumiSection 737 at 09-Sep-2021 04:20:00.222 KST
+Begin processing the 205001st record. Run 1, Event 172612, LumiSection 3727 at 09-Sep-2021 04:20:01.495 KST
+Begin processing the 206001st record. Run 1, Event 77412, LumiSection 4775 at 09-Sep-2021 04:20:02.699 KST
+Begin processing the 207001st record. Run 1, Event 164612, LumiSection 3647 at 09-Sep-2021 04:20:03.874 KST
+Begin processing the 208001st record. Run 1, Event 159212, LumiSection 3593 at 09-Sep-2021 04:20:05.039 KST
+Begin processing the 209001st record. Run 1, Event 193412, LumiSection 3935 at 09-Sep-2021 04:20:06.229 KST
+Begin processing the 210001st record. Run 1, Event 3012, LumiSection 4031 at 09-Sep-2021 04:20:07.383 KST
+09-Sep-2021 04:20:07 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/38F53E65-CBF5-E311-AE57-00266CF32E2C.root
+09-Sep-2021 04:20:07 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6E5051BA-D7F5-E311-A6E7-0025904B12B2.root
+09-Sep-2021 04:20:07 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6E5051BA-D7F5-E311-A6E7-0025904B12B2.root
+Begin processing the 211001st record. Run 1, Event 28412, LumiSection 285 at 09-Sep-2021 04:20:09.475 KST
+Begin processing the 212001st record. Run 1, Event 53012, LumiSection 531 at 09-Sep-2021 04:20:10.618 KST
+Begin processing the 213001st record. Run 1, Event 54012, LumiSection 541 at 09-Sep-2021 04:20:11.767 KST
+Begin processing the 214001st record. Run 1, Event 94813, LumiSection 949 at 09-Sep-2021 04:20:12.952 KST
+Begin processing the 215001st record. Run 1, Event 44413, LumiSection 2445 at 09-Sep-2021 04:20:14.117 KST
+Begin processing the 216001st record. Run 1, Event 171013, LumiSection 3711 at 09-Sep-2021 04:20:15.314 KST
+Begin processing the 217001st record. Run 1, Event 49413, LumiSection 2495 at 09-Sep-2021 04:20:16.504 KST
+Begin processing the 218001st record. Run 1, Event 58613, LumiSection 2587 at 09-Sep-2021 04:20:17.682 KST
+Begin processing the 219001st record. Run 1, Event 82613, LumiSection 2827 at 09-Sep-2021 04:20:18.880 KST
+Begin processing the 220001st record. Run 1, Event 85813, LumiSection 2859 at 09-Sep-2021 04:20:20.080 KST
+Begin processing the 221001st record. Run 1, Event 89613, LumiSection 2897 at 09-Sep-2021 04:20:21.305 KST
+Begin processing the 222001st record. Run 1, Event 152614, LumiSection 3527 at 09-Sep-2021 04:20:22.488 KST
+Begin processing the 223001st record. Run 1, Event 15214, LumiSection 4153 at 09-Sep-2021 04:20:23.666 KST
+09-Sep-2021 04:20:23 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/6E5051BA-D7F5-E311-A6E7-0025904B12B2.root
+09-Sep-2021 04:20:23 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/D48290EB-CEF5-E311-9EEB-0025901D4124.root
+09-Sep-2021 04:20:23 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/D48290EB-CEF5-E311-9EEB-0025901D4124.root
+Begin processing the 224001st record. Run 1, Event 94614, LumiSection 2947 at 09-Sep-2021 04:20:25.737 KST
+Begin processing the 225001st record. Run 1, Event 66215, LumiSection 663 at 09-Sep-2021 04:20:26.950 KST
+Begin processing the 226001st record. Run 1, Event 112815, LumiSection 3129 at 09-Sep-2021 04:20:28.187 KST
+Begin processing the 227001st record. Run 1, Event 184215, LumiSection 1843 at 09-Sep-2021 04:20:29.466 KST
+Begin processing the 228001st record. Run 1, Event 138015, LumiSection 3381 at 09-Sep-2021 04:20:30.736 KST
+Begin processing the 229001st record. Run 1, Event 41415, LumiSection 4415 at 09-Sep-2021 04:20:31.991 KST
+Begin processing the 230001st record. Run 1, Event 169015, LumiSection 3691 at 09-Sep-2021 04:20:33.277 KST
+Begin processing the 231001st record. Run 1, Event 17015, LumiSection 4171 at 09-Sep-2021 04:20:34.585 KST
+Begin processing the 232001st record. Run 1, Event 190215, LumiSection 3903 at 09-Sep-2021 04:20:35.874 KST
+09-Sep-2021 04:20:36 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/D48290EB-CEF5-E311-9EEB-0025901D4124.root
+09-Sep-2021 04:20:36 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/3AC430AF-D7F5-E311-8142-002590AC4FEC.root
+09-Sep-2021 04:20:36 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/3AC430AF-D7F5-E311-8142-002590AC4FEC.root
+Begin processing the 233001st record. Run 1, Event 2615, LumiSection 27 at 09-Sep-2021 04:20:37.972 KST
+Begin processing the 234001st record. Run 1, Event 8415, LumiSection 85 at 09-Sep-2021 04:20:39.157 KST
+Begin processing the 235001st record. Run 1, Event 23015, LumiSection 231 at 09-Sep-2021 04:20:40.385 KST
+Begin processing the 236001st record. Run 1, Event 56015, LumiSection 561 at 09-Sep-2021 04:20:41.612 KST
+Begin processing the 237001st record. Run 1, Event 71015, LumiSection 711 at 09-Sep-2021 04:20:42.900 KST
+Begin processing the 238001st record. Run 1, Event 110216, LumiSection 1103 at 09-Sep-2021 04:20:44.153 KST
+Begin processing the 239001st record. Run 1, Event 182816, LumiSection 1829 at 09-Sep-2021 04:20:45.437 KST
+Begin processing the 240001st record. Run 1, Event 60016, LumiSection 4601 at 09-Sep-2021 04:20:46.727 KST
+09-Sep-2021 04:20:47 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/3AC430AF-D7F5-E311-8142-002590AC4FEC.root
+09-Sep-2021 04:20:47 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/70E5EC2C-D3F5-E311-93A7-0025907DC9AC.root
+09-Sep-2021 04:20:47 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/70E5EC2C-D3F5-E311-93A7-0025907DC9AC.root
+Begin processing the 241001st record. Run 1, Event 21816, LumiSection 219 at 09-Sep-2021 04:20:48.933 KST
+Begin processing the 242001st record. Run 1, Event 39216, LumiSection 393 at 09-Sep-2021 04:20:50.125 KST
+Begin processing the 243001st record. Run 1, Event 3216, LumiSection 2033 at 09-Sep-2021 04:20:51.325 KST
+Begin processing the 244001st record. Run 1, Event 74016, LumiSection 741 at 09-Sep-2021 04:20:52.572 KST
+Begin processing the 245001st record. Run 1, Event 157616, LumiSection 1577 at 09-Sep-2021 04:20:53.778 KST
+Begin processing the 246001st record. Run 1, Event 18816, LumiSection 2189 at 09-Sep-2021 04:20:55.005 KST
+Begin processing the 247001st record. Run 1, Event 20216, LumiSection 2203 at 09-Sep-2021 04:20:56.271 KST
+Begin processing the 248001st record. Run 1, Event 199616, LumiSection 1997 at 09-Sep-2021 04:20:57.552 KST
+Begin processing the 249001st record. Run 1, Event 10416, LumiSection 2105 at 09-Sep-2021 04:20:58.846 KST
+Begin processing the 250001st record. Run 1, Event 181416, LumiSection 3815 at 09-Sep-2021 04:21:00.198 KST
+Begin processing the 251001st record. Run 1, Event 42216, LumiSection 2423 at 09-Sep-2021 04:21:01.547 KST
+Begin processing the 252001st record. Run 1, Event 174016, LumiSection 3741 at 09-Sep-2021 04:21:02.935 KST
+Begin processing the 253001st record. Run 1, Event 78216, LumiSection 4783 at 09-Sep-2021 04:21:04.358 KST
+09-Sep-2021 04:21:05 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/70E5EC2C-D3F5-E311-93A7-0025907DC9AC.root
+09-Sep-2021 04:21:05 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/DA0CA19D-D1F5-E311-B430-002590AC4B5A.root
+09-Sep-2021 04:21:05 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/DA0CA19D-D1F5-E311-B430-002590AC4B5A.root
+Begin processing the 254001st record. Run 1, Event 125216, LumiSection 1253 at 09-Sep-2021 04:21:06.457 KST
+Begin processing the 255001st record. Run 1, Event 127416, LumiSection 1275 at 09-Sep-2021 04:21:07.623 KST
+Begin processing the 256001st record. Run 1, Event 131816, LumiSection 1319 at 09-Sep-2021 04:21:08.763 KST
+Begin processing the 257001st record. Run 1, Event 171416, LumiSection 1715 at 09-Sep-2021 04:21:09.944 KST
+Begin processing the 258001st record. Run 1, Event 185616, LumiSection 1857 at 09-Sep-2021 04:21:11.108 KST
+Begin processing the 259001st record. Run 1, Event 34616, LumiSection 2347 at 09-Sep-2021 04:21:12.289 KST
+Begin processing the 260001st record. Run 1, Event 60216, LumiSection 2603 at 09-Sep-2021 04:21:13.510 KST
+Begin processing the 261001st record. Run 1, Event 89816, LumiSection 2899 at 09-Sep-2021 04:21:14.653 KST
+09-Sep-2021 04:21:15 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/DA0CA19D-D1F5-E311-B430-002590AC4B5A.root
+09-Sep-2021 04:21:15 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/3ACA2C6C-E6F5-E311-8473-0025907DCA9C.root
+09-Sep-2021 04:21:15 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/3ACA2C6C-E6F5-E311-8473-0025907DCA9C.root
+Begin processing the 262001st record. Run 1, Event 19616, LumiSection 197 at 09-Sep-2021 04:21:16.725 KST
+Begin processing the 263001st record. Run 1, Event 19017, LumiSection 2191 at 09-Sep-2021 04:21:17.920 KST
+Begin processing the 264001st record. Run 1, Event 46217, LumiSection 463 at 09-Sep-2021 04:21:19.105 KST
+Begin processing the 265001st record. Run 1, Event 56217, LumiSection 563 at 09-Sep-2021 04:21:20.308 KST
+Begin processing the 266001st record. Run 1, Event 81217, LumiSection 813 at 09-Sep-2021 04:21:21.554 KST
+Begin processing the 267001st record. Run 1, Event 25017, LumiSection 2251 at 09-Sep-2021 04:21:22.840 KST
+Begin processing the 268001st record. Run 1, Event 179218, LumiSection 1793 at 09-Sep-2021 04:21:24.088 KST
+Begin processing the 269001st record. Run 1, Event 146018, LumiSection 3461 at 09-Sep-2021 04:21:25.341 KST
+Begin processing the 270001st record. Run 1, Event 104418, LumiSection 3045 at 09-Sep-2021 04:21:26.629 KST
+Begin processing the 271001st record. Run 1, Event 30618, LumiSection 4307 at 09-Sep-2021 04:21:27.947 KST
+Begin processing the 272001st record. Run 1, Event 62818, LumiSection 4629 at 09-Sep-2021 04:21:29.313 KST
+09-Sep-2021 04:21:30 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/3ACA2C6C-E6F5-E311-8473-0025907DCA9C.root
+09-Sep-2021 04:21:30 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/7E2C3BC1-D7F5-E311-B8B1-0025904B12B2.root
+09-Sep-2021 04:21:30 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/7E2C3BC1-D7F5-E311-B8B1-0025904B12B2.root
+Begin processing the 273001st record. Run 1, Event 80418, LumiSection 805 at 09-Sep-2021 04:21:31.442 KST
+Begin processing the 274001st record. Run 1, Event 47418, LumiSection 2475 at 09-Sep-2021 04:21:32.637 KST
+Begin processing the 275001st record. Run 1, Event 29018, LumiSection 4291 at 09-Sep-2021 04:21:33.842 KST
+Begin processing the 276001st record. Run 1, Event 155418, LumiSection 1555 at 09-Sep-2021 04:21:35.055 KST
+Begin processing the 277001st record. Run 1, Event 5218, LumiSection 2053 at 09-Sep-2021 04:21:36.277 KST
+Begin processing the 278001st record. Run 1, Event 12619, LumiSection 2127 at 09-Sep-2021 04:21:37.540 KST
+Begin processing the 279001st record. Run 1, Event 53219, LumiSection 2533 at 09-Sep-2021 04:21:38.834 KST
+Begin processing the 280001st record. Run 1, Event 44419, LumiSection 4445 at 09-Sep-2021 04:21:40.131 KST
+09-Sep-2021 04:21:41 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/7E2C3BC1-D7F5-E311-B8B1-0025904B12B2.root
+09-Sep-2021 04:21:41 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/DCFB6875-E6F5-E311-AEB7-0025907DCA9C.root
+09-Sep-2021 04:21:41 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/DCFB6875-E6F5-E311-AEB7-0025907DCA9C.root
+Begin processing the 281001st record. Run 1, Event 30619, LumiSection 307 at 09-Sep-2021 04:21:42.270 KST
+Begin processing the 282001st record. Run 1, Event 33619, LumiSection 337 at 09-Sep-2021 04:21:43.495 KST
+Begin processing the 283001st record. Run 1, Event 107819, LumiSection 1079 at 09-Sep-2021 04:21:44.720 KST
+Begin processing the 284001st record. Run 1, Event 168219, LumiSection 1683 at 09-Sep-2021 04:21:45.930 KST
+Begin processing the 285001st record. Run 1, Event 169619, LumiSection 1697 at 09-Sep-2021 04:21:47.199 KST
+Begin processing the 286001st record. Run 1, Event 11219, LumiSection 4113 at 09-Sep-2021 04:21:48.420 KST
+Begin processing the 287001st record. Run 1, Event 13819, LumiSection 4139 at 09-Sep-2021 04:21:49.723 KST
+Begin processing the 288001st record. Run 1, Event 57419, LumiSection 4575 at 09-Sep-2021 04:21:51.019 KST
+Begin processing the 289001st record. Run 1, Event 49619, LumiSection 4497 at 09-Sep-2021 04:21:52.303 KST
+Begin processing the 290001st record. Run 1, Event 51819, LumiSection 4519 at 09-Sep-2021 04:21:53.665 KST
+09-Sep-2021 04:21:54 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/DCFB6875-E6F5-E311-AEB7-0025907DCA9C.root
+09-Sep-2021 04:21:54 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/3E746D87-E6F5-E311-922B-002590AC4B5C.root
+09-Sep-2021 04:21:54 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/3E746D87-E6F5-E311-922B-002590AC4B5C.root
+Begin processing the 291001st record. Run 1, Event 133419, LumiSection 1335 at 09-Sep-2021 04:21:55.709 KST
+Begin processing the 292001st record. Run 1, Event 170219, LumiSection 1703 at 09-Sep-2021 04:21:56.938 KST
+Begin processing the 293001st record. Run 1, Event 179819, LumiSection 1799 at 09-Sep-2021 04:21:58.164 KST
+Begin processing the 294001st record. Run 1, Event 14219, LumiSection 4143 at 09-Sep-2021 04:21:59.425 KST
+Begin processing the 295001st record. Run 1, Event 15619, LumiSection 4157 at 09-Sep-2021 04:22:00.666 KST
+Begin processing the 296001st record. Run 1, Event 33819, LumiSection 4339 at 09-Sep-2021 04:22:01.934 KST
+Begin processing the 297001st record. Run 1, Event 86019, LumiSection 4861 at 09-Sep-2021 04:22:03.220 KST
+Begin processing the 298001st record. Run 1, Event 96419, LumiSection 4965 at 09-Sep-2021 04:22:04.535 KST
+09-Sep-2021 04:22:05 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/3E746D87-E6F5-E311-922B-002590AC4B5C.root
+09-Sep-2021 04:22:05 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/8802FE6E-E6F5-E311-B6BB-0025907FD34C.root
+09-Sep-2021 04:22:05 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/8802FE6E-E6F5-E311-B6BB-0025907FD34C.root
+Begin processing the 299001st record. Run 1, Event 48019, LumiSection 481 at 09-Sep-2021 04:22:06.573 KST
+Begin processing the 300001st record. Run 1, Event 143019, LumiSection 1431 at 09-Sep-2021 04:22:07.808 KST
+Begin processing the 301001st record. Run 1, Event 148019, LumiSection 1481 at 09-Sep-2021 04:22:09.036 KST
+Begin processing the 302001st record. Run 1, Event 11619, LumiSection 2117 at 09-Sep-2021 04:22:10.288 KST
+Begin processing the 303001st record. Run 1, Event 60619, LumiSection 2607 at 09-Sep-2021 04:22:11.505 KST
+Begin processing the 304001st record. Run 1, Event 165419, LumiSection 3655 at 09-Sep-2021 04:22:12.761 KST
+Begin processing the 305001st record. Run 1, Event 47019, LumiSection 2471 at 09-Sep-2021 04:22:14.060 KST
+Begin processing the 306001st record. Run 1, Event 50619, LumiSection 2507 at 09-Sep-2021 04:22:15.313 KST
+09-Sep-2021 04:22:15 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/8802FE6E-E6F5-E311-B6BB-0025907FD34C.root
+09-Sep-2021 04:22:15 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/E2C355C4-D7F5-E311-930D-0025904B12B2.root
+09-Sep-2021 04:22:15 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/E2C355C4-D7F5-E311-930D-0025904B12B2.root
+Begin processing the 307001st record. Run 1, Event 180019, LumiSection 1801 at 09-Sep-2021 04:22:17.366 KST
+Begin processing the 308001st record. Run 1, Event 35219, LumiSection 2353 at 09-Sep-2021 04:22:18.527 KST
+Begin processing the 309001st record. Run 1, Event 18819, LumiSection 4189 at 09-Sep-2021 04:22:19.748 KST
+Begin processing the 310001st record. Run 1, Event 29619, LumiSection 4297 at 09-Sep-2021 04:22:20.993 KST
+Begin processing the 311001st record. Run 1, Event 81419, LumiSection 4815 at 09-Sep-2021 04:22:22.208 KST
+Begin processing the 312001st record. Run 1, Event 31819, LumiSection 4319 at 09-Sep-2021 04:22:23.440 KST
+Begin processing the 313001st record. Run 1, Event 77819, LumiSection 4779 at 09-Sep-2021 04:22:24.676 KST
+09-Sep-2021 04:22:25 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/E2C355C4-D7F5-E311-930D-0025904B12B2.root
+09-Sep-2021 04:22:25 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/40557CBD-D7F5-E311-8AC5-0025904B12B2.root
+09-Sep-2021 04:22:25 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/40557CBD-D7F5-E311-8AC5-0025904B12B2.root
+Begin processing the 314001st record. Run 1, Event 25419, LumiSection 255 at 09-Sep-2021 04:22:26.786 KST
+Begin processing the 315001st record. Run 1, Event 27419, LumiSection 275 at 09-Sep-2021 04:22:27.907 KST
+Begin processing the 316001st record. Run 1, Event 15620, LumiSection 2157 at 09-Sep-2021 04:22:29.093 KST
+Begin processing the 317001st record. Run 1, Event 24220, LumiSection 2243 at 09-Sep-2021 04:22:30.259 KST
+Begin processing the 318001st record. Run 1, Event 26220, LumiSection 2263 at 09-Sep-2021 04:22:31.445 KST
+Begin processing the 319001st record. Run 1, Event 61220, LumiSection 2613 at 09-Sep-2021 04:22:32.659 KST
+Begin processing the 320001st record. Run 1, Event 63820, LumiSection 2639 at 09-Sep-2021 04:22:33.846 KST
+Begin processing the 321001st record. Run 1, Event 65820, LumiSection 4659 at 09-Sep-2021 04:22:35.037 KST
+09-Sep-2021 04:22:35 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/40557CBD-D7F5-E311-8AC5-0025904B12B2.root
+09-Sep-2021 04:22:35 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/8C42FDC1-D7F5-E311-B77F-0025904B12B2.root
+09-Sep-2021 04:22:35 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/8C42FDC1-D7F5-E311-B77F-0025904B12B2.root
+Begin processing the 322001st record. Run 1, Event 57420, LumiSection 575 at 09-Sep-2021 04:22:37.082 KST
+Begin processing the 323001st record. Run 1, Event 138620, LumiSection 1387 at 09-Sep-2021 04:22:38.291 KST
+Begin processing the 324001st record. Run 1, Event 8620, LumiSection 2087 at 09-Sep-2021 04:22:39.544 KST
+Begin processing the 325001st record. Run 1, Event 64020, LumiSection 2641 at 09-Sep-2021 04:22:40.746 KST
+Begin processing the 326001st record. Run 1, Event 68020, LumiSection 2681 at 09-Sep-2021 04:22:41.993 KST
+Begin processing the 327001st record. Run 1, Event 75020, LumiSection 2751 at 09-Sep-2021 04:22:43.238 KST
+Begin processing the 328001st record. Run 1, Event 79820, LumiSection 2799 at 09-Sep-2021 04:22:44.528 KST
+Begin processing the 329001st record. Run 1, Event 86220, LumiSection 2863 at 09-Sep-2021 04:22:45.801 KST
+Begin processing the 330001st record. Run 1, Event 3420, LumiSection 4035 at 09-Sep-2021 04:22:47.092 KST
+Begin processing the 331001st record. Run 1, Event 91620, LumiSection 4917 at 09-Sep-2021 04:22:48.413 KST
+09-Sep-2021 04:22:48 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/8C42FDC1-D7F5-E311-B77F-0025904B12B2.root
+09-Sep-2021 04:22:48 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/E4AB879F-EFF5-E311-BBE8-002590A2CD68.root
+09-Sep-2021 04:22:48 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/E4AB879F-EFF5-E311-BBE8-002590A2CD68.root
+Begin processing the 332001st record. Run 1, Event 26420, LumiSection 265 at 09-Sep-2021 04:22:50.485 KST
+Begin processing the 333001st record. Run 1, Event 44620, LumiSection 2447 at 09-Sep-2021 04:22:51.684 KST
+Begin processing the 334001st record. Run 1, Event 45620, LumiSection 2457 at 09-Sep-2021 04:22:52.897 KST
+Begin processing the 335001st record. Run 1, Event 42020, LumiSection 4421 at 09-Sep-2021 04:22:54.109 KST
+Begin processing the 336001st record. Run 1, Event 74621, LumiSection 4747 at 09-Sep-2021 04:22:55.364 KST
+Begin processing the 337001st record. Run 1, Event 54421, LumiSection 2545 at 09-Sep-2021 04:22:56.599 KST
+Begin processing the 338001st record. Run 1, Event 53621, LumiSection 2537 at 09-Sep-2021 04:22:57.877 KST
+Begin processing the 339001st record. Run 1, Event 56021, LumiSection 2561 at 09-Sep-2021 04:22:59.161 KST
+09-Sep-2021 04:22:59 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/E4AB879F-EFF5-E311-BBE8-002590A2CD68.root
+09-Sep-2021 04:22:59 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/4255CBCB-F0F5-E311-928D-002590A2CD68.root
+09-Sep-2021 04:22:59 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/4255CBCB-F0F5-E311-928D-002590A2CD68.root
+Begin processing the 340001st record. Run 1, Event 65821, LumiSection 659 at 09-Sep-2021 04:23:01.192 KST
+Begin processing the 341001st record. Run 1, Event 144822, LumiSection 1449 at 09-Sep-2021 04:23:02.408 KST
+Begin processing the 342001st record. Run 1, Event 156023, LumiSection 3561 at 09-Sep-2021 04:23:03.605 KST
+Begin processing the 343001st record. Run 1, Event 140823, LumiSection 3409 at 09-Sep-2021 04:23:04.822 KST
+Begin processing the 344001st record. Run 1, Event 4623, LumiSection 4047 at 09-Sep-2021 04:23:06.066 KST
+09-Sep-2021 04:23:06 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/4255CBCB-F0F5-E311-928D-002590A2CD68.root
+09-Sep-2021 04:23:06 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/8C6B9D97-D4F5-E311-8FD8-0025904B141E.root
+09-Sep-2021 04:23:06 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/8C6B9D97-D4F5-E311-8FD8-0025904B141E.root
+Begin processing the 345001st record. Run 1, Event 74623, LumiSection 2747 at 09-Sep-2021 04:23:08.106 KST
+Begin processing the 346001st record. Run 1, Event 51624, LumiSection 517 at 09-Sep-2021 04:23:09.295 KST
+Begin processing the 347001st record. Run 1, Event 52624, LumiSection 527 at 09-Sep-2021 04:23:10.510 KST
+Begin processing the 348001st record. Run 1, Event 163224, LumiSection 1633 at 09-Sep-2021 04:23:11.709 KST
+Begin processing the 349001st record. Run 1, Event 160824, LumiSection 1609 at 09-Sep-2021 04:23:12.934 KST
+Begin processing the 350001st record. Run 1, Event 167424, LumiSection 1675 at 09-Sep-2021 04:23:14.209 KST
+Begin processing the 351001st record. Run 1, Event 128024, LumiSection 3281 at 09-Sep-2021 04:23:15.448 KST
+Begin processing the 352001st record. Run 1, Event 161824, LumiSection 3619 at 09-Sep-2021 04:23:16.719 KST
+09-Sep-2021 04:23:16 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/8C6B9D97-D4F5-E311-8FD8-0025904B141E.root
+09-Sep-2021 04:23:16 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/E8E1FD70-E6F5-E311-A817-0025907DCA9C.root
+09-Sep-2021 04:23:16 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/E8E1FD70-E6F5-E311-A817-0025907DCA9C.root
+Begin processing the 353001st record. Run 1, Event 34424, LumiSection 2345 at 09-Sep-2021 04:23:18.748 KST
+Begin processing the 354001st record. Run 1, Event 105224, LumiSection 1053 at 09-Sep-2021 04:23:19.963 KST
+Begin processing the 355001st record. Run 1, Event 113824, LumiSection 1139 at 09-Sep-2021 04:23:21.182 KST
+Begin processing the 356001st record. Run 1, Event 162825, LumiSection 1629 at 09-Sep-2021 04:23:22.439 KST
+Begin processing the 357001st record. Run 1, Event 102625, LumiSection 3027 at 09-Sep-2021 04:23:23.713 KST
+Begin processing the 358001st record. Run 1, Event 151425, LumiSection 3515 at 09-Sep-2021 04:23:24.945 KST
+Begin processing the 359001st record. Run 1, Event 35025, LumiSection 4351 at 09-Sep-2021 04:23:26.204 KST
+Begin processing the 360001st record. Run 1, Event 39825, LumiSection 4399 at 09-Sep-2021 04:23:27.482 KST
+09-Sep-2021 04:23:27 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/E8E1FD70-E6F5-E311-A817-0025907DCA9C.root
+09-Sep-2021 04:23:27 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/468BF4EF-F0F5-E311-9D24-0025904B5FAE.root
+09-Sep-2021 04:23:27 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/468BF4EF-F0F5-E311-9D24-0025904B5FAE.root
+Begin processing the 361001st record. Run 1, Event 90225, LumiSection 903 at 09-Sep-2021 04:23:29.422 KST
+Begin processing the 362001st record. Run 1, Event 29825, LumiSection 299 at 09-Sep-2021 04:23:30.627 KST
+Begin processing the 363001st record. Run 1, Event 45825, LumiSection 459 at 09-Sep-2021 04:23:31.843 KST
+09-Sep-2021 04:23:32 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/468BF4EF-F0F5-E311-9D24-0025904B5FAE.root
+09-Sep-2021 04:23:32 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/944BEC69-D0F5-E311-8CA6-002590A2CCFE.root
+09-Sep-2021 04:23:32 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/944BEC69-D0F5-E311-8CA6-002590A2CCFE.root
+Begin processing the 364001st record. Run 1, Event 4425, LumiSection 45 at 09-Sep-2021 04:23:33.965 KST
+Begin processing the 365001st record. Run 1, Event 41425, LumiSection 415 at 09-Sep-2021 04:23:35.175 KST
+Begin processing the 366001st record. Run 1, Event 49825, LumiSection 499 at 09-Sep-2021 04:23:36.361 KST
+Begin processing the 367001st record. Run 1, Event 186625, LumiSection 1867 at 09-Sep-2021 04:23:37.604 KST
+Begin processing the 368001st record. Run 1, Event 187626, LumiSection 1877 at 09-Sep-2021 04:23:38.822 KST
+Begin processing the 369001st record. Run 1, Event 190426, LumiSection 1905 at 09-Sep-2021 04:23:40.107 KST
+Begin processing the 370001st record. Run 1, Event 21827, LumiSection 2219 at 09-Sep-2021 04:23:41.357 KST
+Begin processing the 371001st record. Run 1, Event 188027, LumiSection 3881 at 09-Sep-2021 04:23:42.653 KST
+Begin processing the 372001st record. Run 1, Event 39027, LumiSection 2391 at 09-Sep-2021 04:23:43.961 KST
+Begin processing the 373001st record. Run 1, Event 190628, LumiSection 3907 at 09-Sep-2021 04:23:45.327 KST
+Begin processing the 374001st record. Run 1, Event 195628, LumiSection 3957 at 09-Sep-2021 04:23:46.682 KST
+Begin processing the 375001st record. Run 1, Event 24628, LumiSection 4247 at 09-Sep-2021 04:23:48.049 KST
+Begin processing the 376001st record. Run 1, Event 51428, LumiSection 4515 at 09-Sep-2021 04:23:49.423 KST
+09-Sep-2021 04:23:49 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/944BEC69-D0F5-E311-8CA6-002590A2CCFE.root
+09-Sep-2021 04:23:49 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/F45C35C1-D7F5-E311-B801-0025904B12B2.root
+09-Sep-2021 04:23:49 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/F45C35C1-D7F5-E311-B801-0025904B12B2.root
+Begin processing the 377001st record. Run 1, Event 14228, LumiSection 143 at 09-Sep-2021 04:23:51.496 KST
+Begin processing the 378001st record. Run 1, Event 29028, LumiSection 2291 at 09-Sep-2021 04:23:52.730 KST
+Begin processing the 379001st record. Run 1, Event 30028, LumiSection 2301 at 09-Sep-2021 04:23:53.947 KST
+Begin processing the 380001st record. Run 1, Event 57028, LumiSection 2571 at 09-Sep-2021 04:23:55.196 KST
+Begin processing the 381001st record. Run 1, Event 197229, LumiSection 3973 at 09-Sep-2021 04:23:56.452 KST
+Begin processing the 382001st record. Run 1, Event 28829, LumiSection 4289 at 09-Sep-2021 04:23:57.690 KST
+Begin processing the 383001st record. Run 1, Event 79229, LumiSection 4793 at 09-Sep-2021 04:23:59.002 KST
+Begin processing the 384001st record. Run 1, Event 80830, LumiSection 4809 at 09-Sep-2021 04:24:00.373 KST
+09-Sep-2021 04:24:00 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/F45C35C1-D7F5-E311-B801-0025904B12B2.root
+09-Sep-2021 04:24:00 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/4C9F6C67-F6F5-E311-8F3F-0025904B0FB4.root
+09-Sep-2021 04:24:00 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/4C9F6C67-F6F5-E311-8F3F-0025904B0FB4.root
+Begin processing the 385001st record. Run 1, Event 139430, LumiSection 1395 at 09-Sep-2021 04:24:02.402 KST
+Begin processing the 386001st record. Run 1, Event 152230, LumiSection 1523 at 09-Sep-2021 04:24:03.616 KST
+Begin processing the 387001st record. Run 1, Event 155630, LumiSection 1557 at 09-Sep-2021 04:24:04.824 KST
+Begin processing the 388001st record. Run 1, Event 54030, LumiSection 2541 at 09-Sep-2021 04:24:06.067 KST
+Begin processing the 389001st record. Run 1, Event 187631, LumiSection 3877 at 09-Sep-2021 04:24:07.323 KST
+Begin processing the 390001st record. Run 1, Event 8432, LumiSection 4085 at 09-Sep-2021 04:24:08.616 KST
+Begin processing the 391001st record. Run 1, Event 6232, LumiSection 4063 at 09-Sep-2021 04:24:09.948 KST
+Begin processing the 392001st record. Run 1, Event 9832, LumiSection 4099 at 09-Sep-2021 04:24:11.275 KST
+09-Sep-2021 04:24:11 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/4C9F6C67-F6F5-E311-8F3F-0025904B0FB4.root
+09-Sep-2021 04:24:11 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/9E43AB94-DAF5-E311-9B09-00266CF32A00.root
+09-Sep-2021 04:24:11 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/9E43AB94-DAF5-E311-9B09-00266CF32A00.root
+Begin processing the 393001st record. Run 1, Event 17632, LumiSection 177 at 09-Sep-2021 04:24:13.344 KST
+Begin processing the 394001st record. Run 1, Event 20432, LumiSection 205 at 09-Sep-2021 04:24:14.520 KST
+Begin processing the 395001st record. Run 1, Event 22032, LumiSection 221 at 09-Sep-2021 04:24:15.732 KST
+Begin processing the 396001st record. Run 1, Event 4632, LumiSection 2047 at 09-Sep-2021 04:24:16.972 KST
+Begin processing the 397001st record. Run 1, Event 65032, LumiSection 2651 at 09-Sep-2021 04:24:18.226 KST
+Begin processing the 398001st record. Run 1, Event 69632, LumiSection 2697 at 09-Sep-2021 04:24:19.467 KST
+Begin processing the 399001st record. Run 1, Event 77033, LumiSection 2771 at 09-Sep-2021 04:24:20.744 KST
+Begin processing the 400001st record. Run 1, Event 78633, LumiSection 2787 at 09-Sep-2021 04:24:22.044 KST
+Begin processing the 401001st record. Run 1, Event 63633, LumiSection 4637 at 09-Sep-2021 04:24:23.358 KST
+09-Sep-2021 04:24:24 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/9E43AB94-DAF5-E311-9B09-00266CF32A00.root
+09-Sep-2021 04:24:24 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/F4F28962-F6F5-E311-8050-003048D437EC.root
+09-Sep-2021 04:24:24 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/F4F28962-F6F5-E311-8050-003048D437EC.root
+Begin processing the 402001st record. Run 1, Event 58233, LumiSection 583 at 09-Sep-2021 04:24:25.340 KST
+Begin processing the 403001st record. Run 1, Event 79633, LumiSection 797 at 09-Sep-2021 04:24:26.543 KST
+09-Sep-2021 04:24:26 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/F4F28962-F6F5-E311-8050-003048D437EC.root
+09-Sep-2021 04:24:26 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/4E7B9F5B-F6F5-E311-B62D-002481E0D448.root
+09-Sep-2021 04:24:26 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/4E7B9F5B-F6F5-E311-B62D-002481E0D448.root
+Begin processing the 404001st record. Run 1, Event 16033, LumiSection 161 at 09-Sep-2021 04:24:28.529 KST
+Begin processing the 405001st record. Run 1, Event 54633, LumiSection 547 at 09-Sep-2021 04:24:29.765 KST
+Begin processing the 406001st record. Run 1, Event 193233, LumiSection 1933 at 09-Sep-2021 04:24:30.980 KST
+Begin processing the 407001st record. Run 1, Event 85433, LumiSection 855 at 09-Sep-2021 04:24:32.214 KST
+Begin processing the 408001st record. Run 1, Event 103233, LumiSection 1033 at 09-Sep-2021 04:24:33.480 KST
+Begin processing the 409001st record. Run 1, Event 19633, LumiSection 4197 at 09-Sep-2021 04:24:34.746 KST
+09-Sep-2021 04:24:35 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/4E7B9F5B-F6F5-E311-B62D-002481E0D448.root
+09-Sep-2021 04:24:35 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/9EC1C302-D1F5-E311-9BEE-00215AD4D6AE.root
+09-Sep-2021 04:24:35 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/9EC1C302-D1F5-E311-9BEE-00215AD4D6AE.root
+Begin processing the 410001st record. Run 1, Event 37234, LumiSection 373 at 09-Sep-2021 04:24:36.872 KST
+Begin processing the 411001st record. Run 1, Event 94234, LumiSection 2943 at 09-Sep-2021 04:24:38.062 KST
+Begin processing the 412001st record. Run 1, Event 181234, LumiSection 1813 at 09-Sep-2021 04:24:39.272 KST
+Begin processing the 413001st record. Run 1, Event 142234, LumiSection 1423 at 09-Sep-2021 04:24:40.502 KST
+Begin processing the 414001st record. Run 1, Event 194634, LumiSection 1947 at 09-Sep-2021 04:24:41.757 KST
+Begin processing the 415001st record. Run 1, Event 153834, LumiSection 1539 at 09-Sep-2021 04:24:43.028 KST
+Begin processing the 416001st record. Run 1, Event 174234, LumiSection 1743 at 09-Sep-2021 04:24:44.295 KST
+Begin processing the 417001st record. Run 1, Event 188834, LumiSection 1889 at 09-Sep-2021 04:24:45.595 KST
+Begin processing the 418001st record. Run 1, Event 42434, LumiSection 2425 at 09-Sep-2021 04:24:46.937 KST
+Begin processing the 419001st record. Run 1, Event 44034, LumiSection 2441 at 09-Sep-2021 04:24:48.252 KST
+09-Sep-2021 04:24:48 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/9EC1C302-D1F5-E311-9BEE-00215AD4D6AE.root
+09-Sep-2021 04:24:48 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/F66D1F88-E6F5-E311-B6AA-00215AD4D6AE.root
+09-Sep-2021 04:24:48 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/F66D1F88-E6F5-E311-B6AA-00215AD4D6AE.root
+Begin processing the 420001st record. Run 1, Event 9034, LumiSection 91 at 09-Sep-2021 04:24:50.342 KST
+Begin processing the 421001st record. Run 1, Event 40034, LumiSection 401 at 09-Sep-2021 04:24:51.556 KST
+Begin processing the 422001st record. Run 1, Event 36034, LumiSection 2361 at 09-Sep-2021 04:24:52.773 KST
+Begin processing the 423001st record. Run 1, Event 138834, LumiSection 1389 at 09-Sep-2021 04:24:54.046 KST
+Begin processing the 424001st record. Run 1, Event 166634, LumiSection 1667 at 09-Sep-2021 04:24:55.275 KST
+Begin processing the 425001st record. Run 1, Event 142434, LumiSection 1425 at 09-Sep-2021 04:24:56.583 KST
+Begin processing the 426001st record. Run 1, Event 118434, LumiSection 3185 at 09-Sep-2021 04:24:57.891 KST
+Begin processing the 427001st record. Run 1, Event 198234, LumiSection 3983 at 09-Sep-2021 04:24:59.247 KST
+09-Sep-2021 04:24:59 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/F66D1F88-E6F5-E311-B6AA-00215AD4D6AE.root
+09-Sep-2021 04:24:59 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/52077DC1-D7F5-E311-94D5-0025904B12B2.root
+09-Sep-2021 04:24:59 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/52077DC1-D7F5-E311-94D5-0025904B12B2.root
+Begin processing the 428001st record. Run 1, Event 74034, LumiSection 2741 at 09-Sep-2021 04:25:01.338 KST
+Begin processing the 429001st record. Run 1, Event 87834, LumiSection 879 at 09-Sep-2021 04:25:02.553 KST
+Begin processing the 430001st record. Run 1, Event 134834, LumiSection 3349 at 09-Sep-2021 04:25:03.803 KST
+Begin processing the 431001st record. Run 1, Event 81034, LumiSection 2811 at 09-Sep-2021 04:25:05.046 KST
+Begin processing the 432001st record. Run 1, Event 85634, LumiSection 2857 at 09-Sep-2021 04:25:06.343 KST
+Begin processing the 433001st record. Run 1, Event 106434, LumiSection 3065 at 09-Sep-2021 04:25:07.626 KST
+Begin processing the 434001st record. Run 1, Event 191834, LumiSection 3919 at 09-Sep-2021 04:25:09.027 KST
+Begin processing the 435001st record. Run 1, Event 45634, LumiSection 4457 at 09-Sep-2021 04:25:10.376 KST
+Begin processing the 436001st record. Run 1, Event 54634, LumiSection 4547 at 09-Sep-2021 04:25:11.764 KST
+09-Sep-2021 04:25:13 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/52077DC1-D7F5-E311-94D5-0025904B12B2.root
+09-Sep-2021 04:25:13 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A4775EB8-D3F5-E311-A49A-002590AC539E.root
+09-Sep-2021 04:25:13 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A4775EB8-D3F5-E311-A49A-002590AC539E.root
+Begin processing the 437001st record. Run 1, Event 38634, LumiSection 387 at 09-Sep-2021 04:25:13.955 KST
+Begin processing the 438001st record. Run 1, Event 135035, LumiSection 3351 at 09-Sep-2021 04:25:15.149 KST
+Begin processing the 439001st record. Run 1, Event 160435, LumiSection 1605 at 09-Sep-2021 04:25:16.326 KST
+Begin processing the 440001st record. Run 1, Event 185435, LumiSection 1855 at 09-Sep-2021 04:25:17.577 KST
+Begin processing the 441001st record. Run 1, Event 25835, LumiSection 2259 at 09-Sep-2021 04:25:18.807 KST
+Begin processing the 442001st record. Run 1, Event 129235, LumiSection 3293 at 09-Sep-2021 04:25:20.076 KST
+Begin processing the 443001st record. Run 1, Event 130635, LumiSection 3307 at 09-Sep-2021 04:25:21.332 KST
+Begin processing the 444001st record. Run 1, Event 31435, LumiSection 4315 at 09-Sep-2021 04:25:22.579 KST
+09-Sep-2021 04:25:23 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A4775EB8-D3F5-E311-A49A-002590AC539E.root
+09-Sep-2021 04:25:23 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/FA6BC783-E6F5-E311-97BA-002481E0DE14.root
+09-Sep-2021 04:25:23 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/FA6BC783-E6F5-E311-97BA-002481E0DE14.root
+Begin processing the 445001st record. Run 1, Event 57835, LumiSection 579 at 09-Sep-2021 04:25:24.837 KST
+Begin processing the 446001st record. Run 1, Event 96035, LumiSection 961 at 09-Sep-2021 04:25:26.011 KST
+Begin processing the 447001st record. Run 1, Event 93235, LumiSection 933 at 09-Sep-2021 04:25:27.234 KST
+Begin processing the 448001st record. Run 1, Event 99235, LumiSection 993 at 09-Sep-2021 04:25:28.478 KST
+Begin processing the 449001st record. Run 1, Event 106435, LumiSection 1065 at 09-Sep-2021 04:25:29.738 KST
+Begin processing the 450001st record. Run 1, Event 20635, LumiSection 2207 at 09-Sep-2021 04:25:31.040 KST
+Begin processing the 451001st record. Run 1, Event 22835, LumiSection 2229 at 09-Sep-2021 04:25:32.338 KST
+Begin processing the 452001st record. Run 1, Event 141835, LumiSection 3419 at 09-Sep-2021 04:25:33.599 KST
+Begin processing the 453001st record. Run 1, Event 162835, LumiSection 3629 at 09-Sep-2021 04:25:34.943 KST
+Begin processing the 454001st record. Run 1, Event 163835, LumiSection 3639 at 09-Sep-2021 04:25:36.258 KST
+Begin processing the 455001st record. Run 1, Event 25835, LumiSection 4259 at 09-Sep-2021 04:25:37.557 KST
+Begin processing the 456001st record. Run 1, Event 37836, LumiSection 4379 at 09-Sep-2021 04:25:38.891 KST
+09-Sep-2021 04:25:39 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/FA6BC783-E6F5-E311-97BA-002481E0DE14.root
+09-Sep-2021 04:25:39 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/52FCBBB4-CEF5-E311-99EE-002590DB9278.root
+09-Sep-2021 04:25:39 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/52FCBBB4-CEF5-E311-99EE-002590DB9278.root
+Begin processing the 457001st record. Run 1, Event 79436, LumiSection 795 at 09-Sep-2021 04:25:41.016 KST
+Begin processing the 458001st record. Run 1, Event 60436, LumiSection 605 at 09-Sep-2021 04:25:42.252 KST
+Begin processing the 459001st record. Run 1, Event 69836, LumiSection 699 at 09-Sep-2021 04:25:43.438 KST
+Begin processing the 460001st record. Run 1, Event 101436, LumiSection 1015 at 09-Sep-2021 04:25:44.642 KST
+Begin processing the 461001st record. Run 1, Event 40037, LumiSection 2401 at 09-Sep-2021 04:25:45.871 KST
+Begin processing the 462001st record. Run 1, Event 41237, LumiSection 2413 at 09-Sep-2021 04:25:47.146 KST
+Begin processing the 463001st record. Run 1, Event 111637, LumiSection 3117 at 09-Sep-2021 04:25:48.364 KST
+Begin processing the 464001st record. Run 1, Event 159838, LumiSection 3599 at 09-Sep-2021 04:25:49.662 KST
+Begin processing the 465001st record. Run 1, Event 116838, LumiSection 3169 at 09-Sep-2021 04:25:50.973 KST
+Begin processing the 466001st record. Run 1, Event 144838, LumiSection 3449 at 09-Sep-2021 04:25:52.358 KST
+Begin processing the 467001st record. Run 1, Event 154838, LumiSection 3549 at 09-Sep-2021 04:25:53.651 KST
+09-Sep-2021 04:25:54 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/52FCBBB4-CEF5-E311-99EE-002590DB9278.root
+09-Sep-2021 04:25:54 KST  Initiating request to open file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A4FFFB75-E6F5-E311-8822-0025907DCA9C.root
+09-Sep-2021 04:25:54 KST  Successfully opened file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A4FFFB75-E6F5-E311-8822-0025907DCA9C.root
+Begin processing the 468001st record. Run 1, Event 139838, LumiSection 1399 at 09-Sep-2021 04:25:55.733 KST
+Begin processing the 469001st record. Run 1, Event 193838, LumiSection 1939 at 09-Sep-2021 04:25:56.925 KST
+Begin processing the 470001st record. Run 1, Event 195638, LumiSection 1957 at 09-Sep-2021 04:25:58.155 KST
+Begin processing the 471001st record. Run 1, Event 122038, LumiSection 3221 at 09-Sep-2021 04:25:59.419 KST
+Begin processing the 472001st record. Run 1, Event 123038, LumiSection 3231 at 09-Sep-2021 04:26:00.689 KST
+Begin processing the 473001st record. Run 1, Event 124238, LumiSection 3243 at 09-Sep-2021 04:26:01.951 KST
+Begin processing the 474001st record. Run 1, Event 182638, LumiSection 3827 at 09-Sep-2021 04:26:03.282 KST
+Begin processing the 475001st record. Run 1, Event 8838, LumiSection 4089 at 09-Sep-2021 04:26:04.590 KST
+Begin processing the 476001st record. Run 1, Event 199638, LumiSection 3997 at 09-Sep-2021 04:26:05.920 KST
+09-Sep-2021 04:26:07 KST  Closed file file:/scratch/jykim/H_signal/GluGluToHToTauTau/A4FFFB75-E6F5-E311-8822-0025907DCA9C.root
+
+=============================================
+
+MessageLogger Summary
+
+ type     category        sev    module        subroutine        count    total
+ ---- -------------------- -- ---------------- ----------------  -----    -----
+    1 fileAction           -s file_close                            56       56
+    2 fileAction           -s file_open                            112      112
+
+ type    category    Examples: run/evt        run/evt          run/evt
+ ---- -------------------- ---------------- ---------------- ----------------
+    1 fileAction           PostProcessEvent PostProcessEvent PostEndRun
+    2 fileAction           pre-events       pre-events       PostProcessEvent
+
+Severity    # Occurrences   Total Occurrences
+--------    -------------   -----------------
+System                168                 168
